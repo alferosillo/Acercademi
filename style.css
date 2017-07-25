@@ -6,6 +6,7 @@ font-family: verdana;
     font-family: 'Lemonada', cursive;
 width: 90%;
     margin: 0 auto;
+    background-color: beige;
   
 }
 h1{
@@ -23,7 +24,15 @@ text-align: right;
 address{
 text-align: right;
 }
- i .fa-address-card{
+i.fa-envelope-open{
 color: blue;
-font-size: 3em;
+font-size: 6em;
+    width: 50%;
+    margin: 0auto;
+}
+i.fa-whatsapp{
+    color: blue;
+    background-color:aliceblue;
+    font-size: 2em;
+    margin: 0auto;
 }
