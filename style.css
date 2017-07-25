@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Lemonada');
 body{
 color:cornflowerblue;
 text-align: justify;
 font-family: verdana;
+    font-family: 'Lemonada', cursive;
 width: 90%;
     margin: 0 auto;
+  
 }
 h1{
     text-align: center;
@@ -19,4 +22,8 @@ text-align: right;
 }
 address{
 text-align: right;
+}
+ i .fa-address-card{
+color: blue;
+font-size: 3em;
 }
