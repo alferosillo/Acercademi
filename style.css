@@ -1,0 +1,22 @@
+body{
+color:cornflowerblue;
+text-align: justify;
+font-family: verdana;
+width: 90%;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+text-indent: 50px;
+word-spacing: 5px;
+
+}
+footer{
+text-align: right;
+}
+address{
+text-align: right;
+}
