@@ -4,9 +4,10 @@ color:cornflowerblue;
 text-align: justify;
 font-family: verdana;
     font-family: 'Lemonada', cursive;
-width: 90%;
+width: 80%;
     margin: 0 auto;
     background-color: beige;
+    max-width: 960px;
   
 }
 h1{
@@ -26,7 +27,7 @@ text-align: right;
 }
 i.fa-envelope-open{
 color: blue;
-font-size: 6em;   
+font-size: 4em;   
    
 }
 i.fa-whatsapp{
